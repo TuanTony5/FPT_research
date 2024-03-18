@@ -1,0 +1,10 @@
+CSV: Đánh giá cơ sở vật chất của trường (phòng học, thư viện, căn tin,...).
+HD-TV: Mức độ hài lòng về sự hiện đại và thuận tiện của cơ sở vật chất (ví dụ: có đủ máy lạnh, phòng học thoải mái, các tiện ích khác,...)
+CLGV: Đánh giá chất lượng giảng viên (kinh nghiệm, sự nhiệt huyết, khả năng truyền đạt kiến thức) .
+HTGV: Mức độ hài lòng với sự sẵn có và sự hỗ trợ của giảng viên ngoài giờ học.
+CLBH: Đánh giá chất lượng của các buổi học (tính tương tác, sự hấp dẫn).
+PPGD: Mức độ hài lòng với phương pháp giảng dạy và tài liệu học được sử dụng.
+HTTC: Đánh giá khả năng hỗ trợ tài chính hoặc học bổng từ trường.
+DVSV: Mức độ hài lòng với các dịch vụ hỗ trợ sinh viên liên quan đến mức học phí mới (tư vấn, hỗ trợ về tài chính).
+TNHT: Đánh giá tổng thể về trải nghiệm học tập tại trường.
+TXHP: Bạn có cảm thấy sự tương xứng của mức học phí mới đối với chất lượng và trải nghiệm học tập.
